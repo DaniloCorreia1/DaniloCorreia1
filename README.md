@@ -1,15 +1,12 @@
 <h1 align="center">👋 Olá, eu sou o Danilo Correia</h1>
-<h3 align="center">Desenvolvedor Full Stack | Python | Django | Front-end e Back-end | Ex-militar focado em tecnologia</h3>
+<h3 align="center">Desenvolvedor Full Stack | Python | Django | Front-end e Back-end |</h3>
 
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&multiline=true&width=800&height=150&lines=Desenvolvedor+Web+Fullstack;Especialista+em+Django+e+Python;Foco+em+projetos+robustos+e+inteligentes;Em+transi%C3%A7%C3%A3o+da+carreira+militar+para+TI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&multiline=true&width=800&height=150&lines=Desenvolvedor+Web+Fullstack;Especialista+em+Django+e+Python;Foco+em+projetos+robustos+e+inteligentes" alt="Typing SVG" />
 </p>
-</br>
----
-
-## 🚀 Sobre mim
+🚀 Sobre mim
 
 Sou um desenvolvedor Full Stack apaixonado por criar soluções web robustas, inteligentes e escaláveis. Após 8 anos de experiência no Exército Brasileiro, migrei com foco total para a tecnologia. Hoje busco contribuir com projetos desafiadores usando Python, Django, JavaScript e integração com IA, APIs e bancos de dados.
 

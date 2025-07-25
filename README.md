@@ -1,12 +1,13 @@
 <h1 align="center">👋 Olá, eu sou o Danilo Correia</h1>
 <h3 align="center">Desenvolvedor Full Stack | Python | Django | Front-end e Back-end | Ex-militar focado em tecnologia</h3>
 
-</br>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&multiline=true&width=800&height=80&lines=Desenvolvedor+Web+Fullstack;Especialista+em+Django+e+Python;Foco+em+projetos+robustos+e+inteligentes;Em+transi%C3%A7%C3%A3o+da+carreira+militar+para+TI" alt="Typing SVG" />
 </p>
-
+</br>
+</br>
 ---
 
 ## 🚀 Sobre mim
@@ -47,7 +48,27 @@ Sou um desenvolvedor Full Stack apaixonado por criar soluções web robustas, in
 
 </p>
 
-### 🤖 Outras Skills
+
+
+### 🤖 Outras Skills & Ferramentas
+
+<p align="left">
+  <!-- AWS -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" />
+
+  <!-- VS Code -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" />
+
+  <!-- PythonAnywhere (sem ícone oficial) -->
+  <img src="https://avatars.githubusercontent.com/u/6618556?s=200&v=4" height="40" alt="PythonAnywhere logo" />
+
+  <!-- OpenAI -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" height="40" alt="OpenAI logo" />
+
+  <!-- IA / Inteligência Artificial -->
+  <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-artificial-intelligence-technology-flaticons-lineal-color-flat-icons.png" height="40" alt="AI icon"/>
+</p>
+
 
 - 🧠 OpenAI API, IA, Chatbots, LangChain, Reconhecimento de Voz  
 - 🔗 Integrações com Mercado Pago, APIs externas  

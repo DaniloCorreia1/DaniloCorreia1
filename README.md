@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=1000&lines=Desenvolvedor+Fullstack+Python+Django;Projetos+com+IA%2C+APIs+e+WebSockets;Transição+de+Carreira+Militar+para+TI;Foco+em+Performance+e+Inovação" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&multiline=true&width=800&height=80&lines=Desenvolvedor+Web+Fullstack;Especialista+em+Django+e+Python;Foco+em+projetos+robustos+e+inteligentes;Em+transi%C3%A7%C3%A3o+da+carreira+militar+para+TI" alt="Typing SVG" />
 </p>
 </br>
 ---
@@ -63,7 +63,7 @@ Sou um desenvolvedor Full Stack apaixonado por criar soluções web robustas, in
   <img src="https://www.pythonanywhere.com/static/images/logo3.5.png" height="40" alt="PythonAnywhere" />
 
   <!-- OpenAI -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/OpenAI_Logo.svg/512px-OpenAI_Logo.svg.png" height="40" alt="OpenAI logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" height="40" alt="OpenAI logo" />
 
   <!-- IA (Inteligência Artificial) -->
   <img src="https://img.icons8.com/color/48/artificial-intelligence.png" height="40" alt="IA icon" />

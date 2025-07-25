@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&multiline=true&width=800&height=80&lines=Desenvolvedor+Web+Fullstack;Especialista+em+Django+e+Python;Foco+em+projetos+robustos+e+inteligentes;Em+transi%C3%A7%C3%A3o+da+carreira+militar+para+TI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&multiline=true&width=800&height=150&lines=Desenvolvedor+Web+Fullstack;Especialista+em+Django+e+Python;Foco+em+projetos+robustos+e+inteligentes;Em+transi%C3%A7%C3%A3o+da+carreira+militar+para+TI" alt="Typing SVG" />
 </p>
 </br>
 ---
@@ -53,21 +53,14 @@ Sou um desenvolvedor Full Stack apaixonado por criar soluções web robustas, in
 
 
 <p align="left">
-  <!-- AWS -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" />
-
-  <!-- VS Code -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" />
-
-  <!-- PythonAnywhere (imagem leve) -->
-  <img src="https://www.pythonanywhere.com/static/images/logo3.5.png" height="40" alt="PythonAnywhere" />
-
-  <!-- OpenAI -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws" height="40" alt="AWS icon" />
+  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" height="40" alt="OpenAI logo" />
-
-  <!-- IA (Inteligência Artificial) -->
   <img src="https://img.icons8.com/color/48/artificial-intelligence.png" height="40" alt="IA icon" />
 </p>
+
 
 - 🧠 OpenAI API, IA, Chatbots, LangChain, Reconhecimento de Voz  
 - 🔗 Integrações com Mercado Pago, APIs externas  

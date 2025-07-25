@@ -1,6 +1,8 @@
 <h1 align="center">👋 Olá, eu sou o Danilo Correia</h1>
 <h3 align="center">Desenvolvedor Full Stack | Python | Django | Front-end e Back-end | Ex-militar focado em tecnologia</h3>
 
+</br>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&multiline=true&width=800&height=80&lines=Desenvolvedor+Web+Fullstack;Especialista+em+Django+e+Python;Foco+em+projetos+robustos+e+inteligentes;Em+transi%C3%A7%C3%A3o+da+carreira+militar+para+TI" alt="Typing SVG" />
 </p>
